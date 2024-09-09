@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisd\\source\\repos\\AuthenticationApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B8A3FF-6986-4F78-903F-6E50C018FE57}|UsuariosLibrary\\UsuariosLibrary.csproj|c:\\users\\luisd\\source\\repos\\authenticationapi\\usuarioslibrary\\usuarioslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B8A3FF-6986-4F78-903F-6E50C018FE57}|UsuariosLibrary\\UsuariosLibrary.csproj|solutionrelative:usuarioslibrary\\usuarioslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D05A5D-542F-48A5-8D82-EC5594A56137}|AuthenticationApi\\AuthenticationApi.csproj|c:\\users\\luisd\\source\\repos\\authenticationapi\\authenticationapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D05A5D-542F-48A5-8D82-EC5594A56137}|AuthenticationApi\\AuthenticationApi.csproj|solutionrelative:authenticationapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\source\\repos\\AuthenticationApi\\AuthenticationApi\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\luisd\\source\\repos\\AuthenticationApi\\AuthenticationApi\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "AuthenticationApi\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:42:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\luisd\\source\\repos\\AuthenticationApi\\UsuariosLibrary\\UsuariosLibrary.cs",
+              "RelativeDocumentMoniker": "UsuariosLibrary\\UsuariosLibrary.cs",
+              "ToolTip": "C:\\Users\\luisd\\source\\repos\\AuthenticationApi\\UsuariosLibrary\\UsuariosLibrary.cs",
+              "RelativeToolTip": "UsuariosLibrary\\UsuariosLibrary.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1YAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:34:38.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
